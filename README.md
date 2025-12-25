@@ -1,4 +1,4 @@
-# 🎉 Birthday Wisher (Python Project)
+# 🎉 Birthday Wisher 
 
 Birthday Wisher is a simple yet powerful Python automation project that helps you automatically send or generate birthday wishes based on stored birthday data. The program checks today’s date, matches it with saved birthdays, and generates personalized birthday messages using pre-defined templates.
 
@@ -7,9 +7,6 @@ This project is ideal for beginners who want to practice:
 - CSV data processing
 - Date and time handling
 - Automation concepts
-
-🔗 **GitHub Repository:**  
-https://github.com/aman-Tomar-30/Birthday-Wisher
 
 ---
 
@@ -26,8 +23,6 @@ https://github.com/aman-Tomar-30/Birthday-Wisher
 
 ## 📂 Project Structure
 
-
-### 📁 Explanation
 - **main.py** → Core Python script that runs the birthday logic  
 - **birthdays.csv** → Stores birthday data of people  
 - **letter_templates/** → Contains birthday message templates  
@@ -77,9 +72,3 @@ Templates are stored inside the `letter_templates` folder.
 - Python 3.7 or higher
 - Git installed
 
-Check Python version:
-```bash
-python --version
-
-git clone https://github.com/aman-Tomar-30/Birthday-Wisher.git
-cd Birthday-Wisher
